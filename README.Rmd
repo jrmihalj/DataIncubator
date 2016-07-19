@@ -1,7 +1,20 @@
 ---
-title: "README"
+title: "Project Proposal"
 author: "Joe Mihaljevic"
 date: "July 18, 2016"
 output: html_document
 ---
+
+In my proposed project I will explore the complicated relationships between public parks and crime in Chicago. As a resident of Chicago, and one with a lot of extended family with children, choosing a park to bring the kids can depend on the surrounding crime rates. But, in terms of urban planning, crime rates might in turn depend on the locations and densities of park options for local communities. 
+
+To address the first concern, I have preliminarily developed an app that shows recent crimes near all Chicago parks. The users can search for specific parks, and look at the specific types of crimes that may have occurred near by in the last two years. 
+
+Beyond this practical application, however, understanding the impacts of public spaces, like parks, on crime rates is interesting and complicated. Do parks hinder or facilitate crime or is there no relationship between the two? 
+
+Apart from my app, I will use statistical modeling to better understand the spatial relationships between park locations, park densities, population density and crime rates. 
+
+I am currently using open source data from the city of Chicago:
+
+1. Crimes: https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2
+2. Parks: https://data.cityofchicago.org/Parks-Recreation/Parks-Chicago-Park-District-Park-Boundaries/ej32-qgdr
 
